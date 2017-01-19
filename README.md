@@ -1,5 +1,4 @@
 # hello-world
-Beginner github Tutorial
 
 This is my start at github.
 
